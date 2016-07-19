@@ -1,6 +1,6 @@
 {
   "name": "prevueltas/paytpv-xml-bankstore",
-  "description": "PHP Client Library for PayTPV",
+  "description": "PHP Client Library for PayTPV Bankstore",
   "authors": [
     {
       "name": "PayTPV",
